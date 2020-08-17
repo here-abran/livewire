@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('https://herelivewire.herokuapp.com'),
+    'url' => 'https://herelivewire.herokuapp.com',
 
     'asset_url' => env('ASSET_URL', null),
 
